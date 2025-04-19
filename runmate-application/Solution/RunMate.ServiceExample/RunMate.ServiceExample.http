@@ -1,0 +1,6 @@
+@RunMate.ServiceExample_HostAddress = http://localhost:5202
+
+GET {{RunMate.ServiceExample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

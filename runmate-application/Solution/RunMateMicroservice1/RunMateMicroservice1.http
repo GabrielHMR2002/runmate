@@ -1,0 +1,6 @@
+@RunMateMicroservice1_HostAddress = http://localhost:5231
+
+GET {{RunMateMicroservice1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

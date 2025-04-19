@@ -1,0 +1,6 @@
+@RunMate1_HostAddress = http://localhost:5118
+
+GET {{RunMate1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
