@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RunMate.Microservice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce0f623d8739339dd81f064439e0d34bf1c22539")]
 [assembly: System.Reflection.AssemblyProductAttribute("RunMate.Microservice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RunMate.Microservice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

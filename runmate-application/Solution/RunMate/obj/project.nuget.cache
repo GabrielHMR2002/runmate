@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2CMYxuN1ZPnmu1VVe2GfeaPVo5/6Duug5eYnhsylaMNXE/YRlVokkv3QerambfHWuMt8zx5bB+nKL/+sbxkssQ==",
+  "dgSpecHash": "iSJe/ogHdXtKknVrgymCv8cHCp1m8NrGfXMvGQvhkzFGKC4cbksIGJHfeJXFjfY5EDoetjILN0aEw8qgoQZvCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\runmate\\Solution\\RunMate\\RunMate.Authentication.csproj",
+  "projectFilePath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\runmate-app\\runmate\\runmate-application\\Solution\\RunMate\\RunMate.Authentication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabri\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

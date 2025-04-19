@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\RunMateMicroservice1.props" />
-</Project>
